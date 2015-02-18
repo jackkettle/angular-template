@@ -1,3 +1,73 @@
 /*
     Vars
 */
+/*
+    Helper classes
+*/
+.padding-all-20 {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.padding-top-20 {
+  padding-top: 20px;
+}
+.padding-bottom-20 {
+  padding-bottom: 20px;
+}
+.padding-left-20 {
+  padding-left: 20px;
+}
+.padding-right-20 {
+  padding-right: 20px;
+}
+.margin-top-negative-10 {
+  padding-top: -10px;
+}
+.margin-all-20 {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.margin-top-20 {
+  margin-top: 20px;
+}
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+.margin-left-20 {
+  margin-left: 20px;
+}
+.margin-right-20 {
+  margin-right: 20px;
+}
+/*
+    Common
+*/
+.alignleft {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.alignright {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+.aligncenter {
+  display: block;
+  margin: 0 auto;
+}
+/*
+    Main Page
+*/
+.navbar-brand-custom {
+  padding-top: 9px;
+}
+.brand-text {
+  padding-top: 5px;
+}
